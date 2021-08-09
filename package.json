@@ -1,8 +1,8 @@
 {
-  "name": "safe-seal-web",
+  "name": "NanoShibaInu",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://wack-overflow.github.io/safe-seal-web",
+  "homepage": "http://wack-overflow.github.io/nano-shiba",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.11.2",
